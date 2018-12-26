@@ -1,0 +1,28 @@
+.dangnhap{
+    background: darkred;
+}
+.menu{
+    background: darkred;
+    color: cadetblue;
+}
+.tieude{
+    font-style:italic;
+    background: crimson;
+    color: khaki;
+}
+.lienhe{
+    background-color:darkred;
+    color: darkkhaki;
+    margin-left: -15px;
+    margin-right: -15px;
+   
+}
+.tin{
+    background-color: darksalmon;
+
+}
+.anh{
+    background-color: crimson;
+    margin-left: -15px;
+    margin-right: -15px;
+}
